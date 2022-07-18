@@ -1,2 +1,2 @@
 # GIT-Training
-Repo for Git training
+Repo for Git training of Shaaswat Tiwari
